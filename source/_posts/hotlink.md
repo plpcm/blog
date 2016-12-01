@@ -4,4 +4,6 @@ categories: 默认分类 #分类
 description: 收藏的链接
 ---
 
-[Markdown 语法说明 (简体中文版) ](http://wowubuntu.com/markdown/)
+### 收藏链接
+- [Markdown 语法说明 (简体中文版) ](http://wowubuntu.com/markdown/)
+- [hexo主题next使用帮助](http://theme-next.iissnan.com/getting-started.html)
